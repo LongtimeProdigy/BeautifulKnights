@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Character>
+	<data index="0" name="데이지" HP="216" STRENGTH="73" FLEXIBILITY="37" IMPROVISATION="26" CONCENTRARION="39" BALANCESENSE="55" SKILL1="0" LV1="2" SKILL2="5" LV2="1" SKILL3="7" LV3="2" SKILL4="9" LV4="1" SKILL5="1" LV5="3"/>
+	<data index="1" name="마리아" HP="216" STRENGTH="49" FLEXIBILITY="21" IMPROVISATION="55" CONCENTRARION="68" BALANCESENSE="38" SKILL1="2" LV1="3" SKILL2="6" LV2="3" SKILL3="3" LV3="1" SKILL4="8" LV4="1" SKILL5="4" LV5="1"/>
+</Character>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Skill>
+	<data index="0" name="돌진" text1="공격력" text2="% 증가" lv1="8" lv2="13" lv3="19"/>
+	<data index="1" name="분쇄" text1="파괴력" text2="% 증가" lv1="15" lv2="22" lv3="31"/>
+	<data index="2" name="격돌" text1="관통력" text2="% 증가" lv1="13" lv2="19" lv3="25"/>
+	<data index="3" name="집중" text1="조준점 크기" text2="% 감소" lv1="9" lv2="12" lv3="16"/>
+	<data index="4" name="침착" text1="조준점 큰 반동" text2="% 감소" lv1="11" lv2="14" lv3="18"/>
+	<data index="5" name="회피" text1="공격 회피" text2="% 증가" lv1="5" lv2="9" lv3="13"/>
+	<data index="6" name="파괴" text1="고정 피해량" text2="증가" lv1="5" lv2="7" lv3="9"/>
+	<data index="7" name="꿰뚫기" text1="고정 관통력" text2="증가" lv1="10" lv2="16" lv3="23"/>
+	<data index="8" name="철벽" text1="패링 범위" text2="% 증가" lv1="8" lv2="11" lv3="14"/>
+	<data index="9" name="흡혈" text1="공격 피해량" text2="% 흡수" lv1="13" lv2="17" lv3="23"/>
+	<data index="10" name="성실" text1="조준점 이동속도" text2="% 증가" lv1="6" lv2="9" lv3="13"/>
+	<data index="11" name="돌진" text1="공격력" text2="% 증가" lv1="5" lv2="8" lv3="12"/>
+	<data index="12" name="분쇄" text1="파괴력" text2="% 증가" lv1="9" lv2="14" lv3="20"/>
+	<data index="13" name="격돌" text1="관통력" text2="% 증가" lv1="8" lv2="12" lv3="17"/>
+	<data index="14" name="집중" text1="조준점 크기" text2="% 감소" lv1="6" lv2="8" lv3="11"/>
+	<data index="15" name="침착" text1="조준점 큰 반동" text2="% 감소" lv1="7" lv2="9" lv3="13"/>
+	<data index="16" name="파괴" text1="고정 피해량" text2="증가" lv1="3" lv2="5" lv3="7"/>
+	<data index="17" name="꿰뚫기" text1="고정 관통력" text2="증가" lv1="7" lv2="12" lv3="18"/>
+	<data index="18" name="철벽" text1="패링 범위" text2="% 증가" lv1="5" lv2="7" lv3="10"/>
+	<data index="19" name="흡혈" text1="공격 피해량" text2="% 흡수" lv1="7" lv2="10" lv3="14"/>
+	<data index="20" name="성실" text1="조준점 이동속도" text2="% 증가" lv1="5" lv2="8" lv3="12"/>
+</Skill>

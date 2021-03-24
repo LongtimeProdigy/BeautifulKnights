@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Item>
+	<data index="0" name="응급상자" text1="소모 체력 21% 회복" text2="소모된 체력의 21% 회복"/>
+	<data index="1" name="수리도구" text1="방어구 부분 복원" text2="최근에 파손된 방어구 부위를 복원"/>
+	<data index="2" name="심호흡" text1="상태이상 완전 회복" text2="활성화된 모든 상태이상 제거"/>
+	<data index="3" name="커피" text1="흔들림 30% 감소" text2="조준 흔들림 30% 감소"/>
+	<data index="4" name="스트레칭" text1="조준점 25% 감소" text2="조준원 크기 25% 축소"/>
+</Item>

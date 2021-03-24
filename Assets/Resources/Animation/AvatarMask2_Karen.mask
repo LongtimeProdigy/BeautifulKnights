@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: AvatarMask2_Karen
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: ctrl_grp
+    m_Weight: 1
+  - m_Path: ctrl_grp/L_foot_IK_ctrl_grp
+    m_Weight: 1
+  - m_Path: ctrl_grp/L_foot_IK_ctrl_grp/L_foot_IK_ctrl
+    m_Weight: 1
+  - m_Path: ctrl_grp/L_foot_IK_ctrl_grp/L_foot_IK_ctrl/L_knee_pv_grp
+    m_Weight: 1
+  - m_Path: ctrl_grp/L_foot_IK_ctrl_grp/L_foot_IK_ctrl/L_knee_pv_grp/L_knee_pv
+    m_Weight: 1
+  - m_Path: ctrl_grp/L_foot_IK_ctrl_grp/L_foot_IK_ctrl/L_leg_IKH
+    m_Weight: 1
+  - m_Path: ctrl_grp/L_hand_IK_ctrl_grp
+    m_Weight: 1
+  - m_Path: ctrl_grp/L_hand_IK_ctrl_grp/L_hand_IK_ctrl
+    m_Weight: 1
+  - m_Path: ctrl_grp/L_hand_IK_ctrl_grp/L_hand_IK_ctrl/ikHandle3
+    m_Weight: 1
+  - m_Path: ctrl_grp/L_hand_IK_ctrl_grp/L_hand_IK_ctrl/L_elbow_pv_grp
+    m_Weight: 1
+  - m_Path: ctrl_grp/L_hand_IK_ctrl_grp/L_hand_IK_ctrl/L_elbow_pv_grp/L_elbow_pv
+    m_Weight: 1
+  - m_Path: ctrl_grp/R_foot_IK_ctrl_grp
+    m_Weight: 1
+  - m_Path: ctrl_grp/R_foot_IK_ctrl_grp/R_foot_IK_ctrl
+    m_Weight: 1
+  - m_Path: ctrl_grp/R_foot_IK_ctrl_grp/R_foot_IK_ctrl/R_knee_pv_grp
+    m_Weight: 1
+  - m_Path: ctrl_grp/R_foot_IK_ctrl_grp/R_foot_IK_ctrl/R_knee_pv_grp/R_knee_pv
+    m_Weight: 1
+  - m_Path: ctrl_grp/R_foot_IK_ctrl_grp/R_foot_IK_ctrl/R_leg_IKH
+    m_Weight: 1
+  - m_Path: ctrl_grp/R_hand_IK_ctrl_grp
+    m_Weight: 1
+  - m_Path: ctrl_grp/R_hand_IK_ctrl_grp/R_hand_IK_ctrl
+    m_Weight: 1
+  - m_Path: ctrl_grp/R_hand_IK_ctrl_grp/R_hand_IK_ctrl/ikHandle4
+    m_Weight: 1
+  - m_Path: ctrl_grp/R_hand_IK_ctrl_grp/R_hand_IK_ctrl/R_elbow_pv_grp
+    m_Weight: 1
+  - m_Path: ctrl_grp/R_hand_IK_ctrl_grp/R_hand_IK_ctrl/R_elbow_pv_grp/R_elbow_pv
+    m_Weight: 1
+  - m_Path: ctrl_grp/skirt_ctrl_grp
+    m_Weight: 1
+  - m_Path: ctrl_grp/skirt_ctrl_grp/L_skirt_ctrl_grp
+    m_Weight: 1
+  - m_Path: ctrl_grp/skirt_ctrl_grp/L_skirt_ctrl_grp/L_skirt_ctrl
+    m_Weight: 1
+  - m_Path: ctrl_grp/skirt_ctrl_grp/R_skirt_ctrl_grp
+    m_Weight: 1
+  - m_Path: ctrl_grp/skirt_ctrl_grp/R_skirt_ctrl_grp/R_skirt_ctrl
+    m_Weight: 1
+  - m_Path: geo
+    m_Weight: 1
+  - m_Path: geo/crack
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface94
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface95
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface96
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface97
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface98
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface99
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface100
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface101
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface102
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface103
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface104
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface105
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface107
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface108
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface110
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface113
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface114
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface115
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface115/polySurface109
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface115/polySurface111
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface115/polySurface111/polySurface106
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface115/polySurface112
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface116
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface117
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface118
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface119
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface120
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface121
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface122
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface123
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface124
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface125
+    m_Weight: 1
+  - m_Path: geo/crack/polySurface126
+    m_Weight: 1
+  - m_Path: geo/karen_Body_Mesh
+    m_Weight: 1
+  - m_Path: geo/original
+    m_Weight: 1
+  - m_Path: geo/original/polySurface127
+    m_Weight: 1
+  - m_Path: geo/original/polySurface129
+    m_Weight: 1
+  - m_Path: geo/original/polySurface131
+    m_Weight: 1
+  - m_Path: geo/original/polySurface132
+    m_Weight: 1
+  - m_Path: geo/original/polySurface133
+    m_Weight: 1
+  - m_Path: geo/original/polySurface134
+    m_Weight: 1
+  - m_Path: geo/original/polySurface135
+    m_Weight: 1
+  - m_Path: geo/original/polySurface136
+    m_Weight: 1
+  - m_Path: geo/original/polySurface137
+    m_Weight: 1
+  - m_Path: geo/original/polySurface138
+    m_Weight: 1
+  - m_Path: geo/original/polySurface139
+    m_Weight: 1
+  - m_Path: geo/original/polySurface140
+    m_Weight: 1
+  - m_Path: geo/original/polySurface141
+    m_Weight: 1
+  - m_Path: geo/original/polySurface143
+    m_Weight: 1
+  - m_Path: geo/original/polySurface144
+    m_Weight: 1
+  - m_Path: geo/original/polySurface145
+    m_Weight: 1
+  - m_Path: geo/original/polySurface146
+    m_Weight: 1
+  - m_Path: geo/original/polySurface147
+    m_Weight: 1
+  - m_Path: geo/original/polySurface148
+    m_Weight: 1
+  - m_Path: geo/original/polySurface149
+    m_Weight: 1
+  - m_Path: geo/original/polySurface150
+    m_Weight: 1
+  - m_Path: geo/original/polySurface151
+    m_Weight: 1
+  - m_Path: geo/original/polySurface151/polySurface128
+    m_Weight: 1
+  - m_Path: geo/original/polySurface151/polySurface142
+    m_Weight: 1
+  - m_Path: geo/original/polySurface151/polySurface142/polySurface130
+    m_Weight: 1
+  - m_Path: geo/original/polySurface152
+    m_Weight: 1
+  - m_Path: geo/original/polySurface153
+    m_Weight: 1
+  - m_Path: Hair
+    m_Weight: 1
+  - m_Path: Hair/polySurface1
+    m_Weight: 1
+  - m_Path: joint
+    m_Weight: 1
+  - m_Path: joint/root
+    m_Weight: 1
+  - m_Path: joint/root/joint2
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint4
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint4/joint5
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint4/joint5/joint6
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint29
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint29/joint42
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint29/joint42/joint15
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint29/joint42/joint15/joint16
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint29/joint42/joint15/joint16/joint17
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint29/joint42/joint15/joint16/joint17/joint18
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint29/joint42/joint15/joint16/joint19
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint29/joint42/joint15/joint16/joint19/joint20
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint29/joint42/joint15/joint16/joint19/joint20/joint31
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint30
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint30/joint45
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint30/joint45/joint46
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint30/joint45/joint46/joint47
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint30/joint45/joint46/joint47/joint10
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint30/joint45/joint46/joint47/joint10/joint11
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint30/joint45/joint46/joint47/joint12
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint30/joint45/joint46/joint47/joint12/joint13
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint30/joint45/joint46/joint47/joint12/joint13/joint32
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint30/joint45/joint46/joint47/polySurface155
+    m_Weight: 1
+  - m_Path: joint/root/joint2/joint3/joint30/joint45/joint46/joint47/polySurface155/polySurface154
+    m_Weight: 1
+  - m_Path: joint/root/joint34
+    m_Weight: 1
+  - m_Path: joint/root/joint34/joint35
+    m_Weight: 1
+  - m_Path: joint/root/joint34/joint35/joint36
+    m_Weight: 1
+  - m_Path: joint/root/joint34/joint35/joint36/joint37
+    m_Weight: 1
+  - m_Path: joint/root/joint34/joint49
+    m_Weight: 1
+  - m_Path: joint/root/joint38
+    m_Weight: 1
+  - m_Path: joint/root/joint38/joint39
+    m_Weight: 1
+  - m_Path: joint/root/joint38/joint39/joint40
+    m_Weight: 1
+  - m_Path: joint/root/joint38/joint39/joint40/joint41
+    m_Weight: 1
+  - m_Path: joint/root/joint38/joint50
+    m_Weight: 1

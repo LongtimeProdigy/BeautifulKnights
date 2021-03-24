@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lance>
+	<data index="0" name="블루문" skillid="13" skilllv="3" power="57" destructive="73" penetration="35" parring="24" weigth="77"/>
+	<data index="1" name="레드윙" skillid="12" skilllv="2" power="53" destructive="46" penetration="54" parring="63" weigth="46"/>
+	<data index="2" name="흑기사의 창" skillid="17" skilllv="1" power="51" destructive="29" penetration="85" parring="37" weigth="58"/>
+	<data index="3" name="리펄스렌" skillid="15" skilllv="1" power="58" destructive="40" penetration="55" parring="48" weigth="66"/>
+	<data index="4" name="그린링" skillid="18" skilllv="1" power="57" destructive="33" penetration="49" parring="93" weigth="34"/>
+	<data index="5" name="아벨의 가시" skillid="21" skilllv="2" power="50" destructive="57" penetration="21" parring="98" weigth="33"/>
+	<data index="6" name="백기사의 창" skillid="20" skilllv="2" power="59" destructive="17" penetration="62" parring="27" weigth="103"/>
+	<data index="7" name="돈블란드" skillid="16" skilllv="1" power="53" destructive="25" penetration="89" parring="55" weigth="40"/>
+	<data index="8" name="푸른 그림자" skillid="19" skilllv="2" power="55" destructive="91" penetration="55" parring="41" weigth="22"/>
+	<data index="9" name="검은 뿔" skillid="14" skilllv="1" power="57" destructive="66" penetration="77" parring="52" weigth="14"/>
+</Lance>

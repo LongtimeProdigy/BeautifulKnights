@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Debuff>
+	<data index="0" name="현기증" text1="조준점 큰 반동" text2="% 증가" text3="안정감" text4="% 감소"/>
+	<data index="1" name="탈골" text1="조준점 크기" text2="% 증가" text3="조준원" text4="% 확대"/>
+	<data index="2" name="타박상" text1="조준점 이동속도" text2="% 감소" text3="조준속도" text4="% 감소"/>
+	<data index="3" name="인대파열" text1="패링에 당할 경우 튕겨짐" text2="% 증가" text3="움켜쥠" text4="% 감소"/>
+	<data index="4" name="호흡곤란" text1="조준점 작은 반동" text2="% 증가" text3="손떨림" text4="% 증가"/>
+</Debuff>

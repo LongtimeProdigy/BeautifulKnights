@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BeatifulKnights_Sample
+  m_Shader: {fileID: 4800000, guid: 8ebc7129b55296d4faabe8569c696b81, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 80dc565165c1cf54fb402e3243fd60c3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 2800000, guid: be5a5a8c0b2d1b243a9c6a1aa9a0b533, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCap_Sampler:
+        m_Texture: {fileID: 2800000, guid: 5394c057d027a9b43a186324023c0b9b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 6832443c041621343b6153b108e9ed19, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShadeTex:
+        m_Texture: {fileID: 2800000, guid: aaa8bd4e577302f4e9f2745535b2de01, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BaseColor_Step: 0.701
+    - _BaseShade_Falloff: 0.084
+    - _BumpScale: 0.683
+    - _FarDistance: 100
+    - _HighColor_Falloff: 0.312
+    - _HighColor_Power: 0.391
+    - _HighColor_Range: 0.38
+    - _MatCapBlend: 0.662
+    - _MatCapBlurLevel: 1.58
+    - _NearDistance: 0.5
+    - _NormalBlend: 0.881
+    - _Offset_Z: 0
+    - _Outline_Width: 0.2
+    - _RimArea: 0.154
+    - _RimLight_Power: 0.458
+    - _ShadeColor_Step: 0
+    - _Shade_Falloff: 0.067
+    - _ShadowLevel: 0
+    - _highColor_Power: 0.452
+    - _highColor_Range: 1
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _HighLight_Color: {r: 1, g: 0.97515213, b: 0.9485294, a: 1}
+    - _Outline_Color: {r: 0.30147058, g: 0.19285251, b: 0.19285251, a: 1}
+    - _RimLight_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ShadeColor1: {r: 0.9117647, g: 0.9817444, b: 1, a: 1}
+    - _ShadeColor2: {r: 0.7850346, g: 0.8300023, b: 0.88235295, a: 1}
